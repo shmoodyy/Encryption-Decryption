@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption (Java)/task/build/
+/Encryption-Decryption (Java)/task/out/
+/Encryption-Decryption (Java)/task/out/production/classes/
